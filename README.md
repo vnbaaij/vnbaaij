@@ -1,7 +1,7 @@
 ### Hi there 🙋‍♂️
 
 * 🔭 I’m Vincent Baaij
-* 🗣That last name is pronouced as one part of 'bey bey' 👋
+* 🗣That last name is pronouced as either the first or the last part of 'bey bey' 👋
 * 🌱 I’m blogging here https://baaijte.net
 * 👯 I’m always learning
 * 💬 and focusing on Microsoft Azure now https://azure.microsoft.com/
