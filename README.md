@@ -8,6 +8,6 @@
 * 🤔 I’m on Twitter https://twitter.com/vnbaaij
 * 📫 How to reach me: vnbaaij@outlook.com
 * 😄 Pronouns: he/him/his
-* ⚡ Fun fact: I've created and published an Episerver Package which is now the 6th most popular community contributed package 🤪
+* ⚡ Fun fact: I've created and published an Episerver Package which is now the 6th most popular community contributed package (with ~200K downloads) 🤪
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vnbaaij&show_icons=true&theme=graywhite)
