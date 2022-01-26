@@ -8,6 +8,6 @@
 * 🤔 I’m on Twitter https://twitter.com/vnbaaij
 * 📫 How to reach me: vnbaaij@outlook.com
 * 😄 Pronouns: he/him/his
-* ⚡ Fun fact: I've created and published an Episerver Package which is now the 6th most popular community contributed package (with ~200K downloads) 🤪
+* ⚡ Fun fact: I've created and published Episerver (now Optimizely) Packages which are now the 4th (with +300K downloads) and 10th (with +150K downloads) most popular community contributed packages 🤪
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vnbaaij&show_icons=true&theme=graywhite)
