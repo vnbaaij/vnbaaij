@@ -10,4 +10,6 @@
 * 😄 Pronouns: he/him/his
 * ⚡ Fun fact: I've created and published Episerver (now Optimizely) Packages which are now the 4th (with +300K downloads) and 10th (with +150K downloads) most popular community contributed packages 🤪
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vnbaaij&show_icons=true&theme=graywhite)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vnbaaij&show_icons=true&theme=react)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnbaaij&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
