@@ -5,7 +5,7 @@
 * 🌱 I’m blogging here https://baaijte.net
 * 👯 I’m always learning
 * 🛠️ I'm maintaing [Fluent UI Blazor](https://fluentui-blazor.net) ([https://github.com/microsoft/fluentui-blazor](https://github.com/microsoft/fluentui-blazor))
-* 🤔 I’m on X, Threads, Mastodan and BlueSky (search for @vnbaaij)
+* 🤔 I’m on X, Threads, Mastodon and BlueSky (search for @vnbaaij)
 * 📫 How to reach me: vnbaaij@outlook.com
 * 😄 Pronouns: he/him/his
 * ⚡ Fun fact: I've created and published Episerver (now Optimizely) Packages which are still amongst the most popular community contributed packages (with close to 1M downloads)  🤪
